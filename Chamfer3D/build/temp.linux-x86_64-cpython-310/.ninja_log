@@ -1,0 +1,9 @@
+# ninja log v5
+0	14275	1741434118954849299	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer_cuda.o	36484906bb6857ef
+5	11714	1741434148462559548	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer3D.o	c5875d05cb35178b
+7	14287	1741434927727069724	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer_cuda.o	cebec81930cd1cc6
+6	12056	1741435259887924509	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer3D.o	cd474c7200111ef0
+6	15117	1741435262943895630	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer_cuda.o	b5517ce241c08ce2
+10	15846	1741500200189644525	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer_cuda.o	d9cdf70d100c14d
+12	12062	1741500414275761099	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer3D.o	7d3077739ab5dc77
+12	15127	1741500417335733853	/home/huangzy/ASDN-master/Chamfer3D/build/temp.linux-x86_64-cpython-310/home/huangzy/ASDN-master/Chamfer3D/chamfer_cuda.o	9b600855109f46c7
