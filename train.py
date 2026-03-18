@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
     ## Training
     parser.add_argument('--seed', type=int, default=2024)
-    parser.add_argument('--log_root', type=str, default='./logs/ASDN')
+    parser.add_argument('--log_root', type=str, default='./logs')
     parser.add_argument('--val_noise', type=float, default=0.015)
     parser.add_argument('--resume_from_checkpoint', type=str, default=None)
 
