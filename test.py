@@ -98,7 +98,7 @@ if __name__ == '__main__':
     mp.set_start_method("spawn")
     # Arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument('--ckpt', type=str, default='/home/zwj/RDPCD/pre/denoisenet-epoch219-val_loss0.00022199.ckpt')
+    parser.add_argument('--ckpt', type=str, default='./pre/denoisenet-epoch274-val_loss0.00022726.ckpt')
     parser.add_argument('--num_modules_to_use', type=int, default=None)
     parser.add_argument('--input_root', type=str, default='./data/examples')
     parser.add_argument('--output_root', type=str, default='./data/result')
