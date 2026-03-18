@@ -44,6 +44,9 @@ python train.py
 We provide pre-trained models for inference. You can use them by running the following commands:
 
 ```bash
-python test.py --niters 2  --noise_lvls 0.01 
-python test.py --niters 2  --noise_lvls 0.02
-python test.py --niters 3  --noise_lvls 0.03
+python test.py --niters 3  --resolution='10000_poisson  --noise_lvls 0.01 
+python test.py --niters 4  --resolution='10000_poisson  --noise_lvls 0.02
+python test.py --niters 4  --resolution='10000_poisson  --noise_lvls 0.025
+python test.py --niters 3  --resolution='50000_poisson  --noise_lvls 0.01
+python test.py --niters 4  --resolution='50000_poisson  --noise_lvls 0.02
+python test.py --niters 4  --resolution='50000_poisson  --noise_lvls 0.025
