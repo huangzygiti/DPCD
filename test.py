@@ -111,7 +111,7 @@ if __name__ == '__main__':
     parser.add_argument('--seed', type=int, default=2024)
 
     # Filtering parameters
-    parser.add_argument('--patch_size', type=int, default=100)
+    parser.add_argument('--patch_size', type=int, default=1000)
     parser.add_argument('--niters', type=int, default=2)
     parser.add_argument('--denoise_knn', type=int, default=None, help='kNN size to use during testing')
 
